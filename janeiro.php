@@ -45,9 +45,9 @@ ob_end_clean();
         <link rel="stylesheet" type="text/css" href = "./estilo.css">
     </head>
     <body>
-        <h3> Esses são os 5 deputados que mais gastaram de suas verbas indenizatórias durante o mês de janeiro. </h3>
         <div class="container">
             <div id="conteudo">
+                <h3> Esses são os 5 deputados que mais gastaram de suas verbas indenizatórias durante o mês de janeiro. </h3>
             <table>
             <tr>
             <th>ID</th>
