@@ -14,8 +14,8 @@ O sistema possuí 4 abas, são elas:
 - Ranking de Verbas: Expõe os deputados mais "gastadores" durante o mês escolhido do ano de 2017;
 
 
-Referências Bibliográficas 
+# Referências Bibliográficas:
 
-PHP CURL - https://php.net/manual/pt_BR/book.curl.php.
-PHP SQLITE3 - https://www.php.net/manual/pt_BR/book.sqlite3.php.
-PHP JSON - https://www.php.net/manual/pt_BR/book.json.php.
+- PHP CURL - https://php.net/manual/pt_BR/book.curl.php.
+- PHP SQLITE3 - https://www.php.net/manual/pt_BR/book.sqlite3.php.
+- HP JSON - https://www.php.net/manual/pt_BR/book.json.php.
