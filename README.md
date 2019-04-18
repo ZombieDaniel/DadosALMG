@@ -2,7 +2,7 @@
 Projeto com os dados de Deputados de MG
 
 
-Para abrir os arquivos no navegador, instale o Xampp e coloque todos os arquivos dentro de um diretório na pasta htdocs do Xampp.
+Para iniciar os arquivos no navegador, instale o Xampp e coloque todos os arquivos dentro de um diretório na pasta htdocs do Xampp.
 Após isso, dê um start no Apache dentro do XAMPP CONTROL PANEL. Vá no navegador, digite localhost/"nome do diretório".
 Recomendo utilizar o Visual Studio Code e instalar a extensão SQLITE para o banco de dados funcionar. (para instalar a extensão, pressione ctrl + shift + x e pesquise na caixa de buscas SQLITE e clique em install)
 
@@ -18,4 +18,4 @@ O sistema possuí 4 abas, são elas:
 
 - PHP CURL - https://php.net/manual/pt_BR/book.curl.php.
 - PHP SQLITE3 - https://www.php.net/manual/pt_BR/book.sqlite3.php.
-- HP JSON - https://www.php.net/manual/pt_BR/book.json.php.
+- PHP JSON - https://www.php.net/manual/pt_BR/book.json.php.
