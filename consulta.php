@@ -76,10 +76,10 @@ include './bd.php';
         <link rel="stylesheet" type="text/css" href = "./estilo.css">
     </head>
     <body>
-        <h3> Lista de deputados que participaram da legislatura 18. 
-            (data de início: 2015-02-01 e data de término: 2019-01-31).</h3>
         <div class="container">
             <div id="conteudo">
+                <h3> Lista de deputados que participaram da legislatura 18. 
+            (data de início: 2015-02-01 e data de término: 2019-01-31).</h3>
             <table>
             <tr>
             <th>ID</th>
