@@ -29,9 +29,9 @@ if($select == 0){
         <link rel="stylesheet" type="text/css" href = "./estilo.css">
     </head>
     <body>
-        <h3>Ranking das redes sociais mais utilizadas dentre os deputados, ordenado de forma decrescente.</h3>
         <div class="container">
             <div id="conteudo">
+                <h3>Ranking das redes sociais mais utilizadas dentre os deputados, ordenado de forma decrescente.</h3>
             <table>
             <tr>
             <th>Nome</th>
